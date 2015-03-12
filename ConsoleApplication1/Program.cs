@@ -12,6 +12,8 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello world");
             Console.WriteLine("Vrdiii, by sala");
             Console.WriteLine("Drugi put");
+            Console.WriteLine("Vrdiii smrad, by sala");
+            Console.WriteLine("promjena");
             Console.Read();
         }
     }
